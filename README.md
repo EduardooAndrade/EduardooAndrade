@@ -1,7 +1,7 @@
 ### Hi There 👋👋
 
 - 👋 Hi, I’m @EduardooAndrade
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE
+- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, NodeJS.
 - 📫 How to reach me andradeeduardo400@gmail.com
 
 
