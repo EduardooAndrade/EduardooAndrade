@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Carlos Eduardo 👋
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (3º Semestre)**
-💻 **Analista de Suporte migrando para Desenvolvimento de Software**
+
 
 Atualmente combino minha experiência sólida em **Help Desk** e atendimento ao cliente com meus estudos em programação para criar soluções que resolvem problemas reais. Tenho foco em **Automação de Processos** e desenvolvimento **Full-Stack**.
 
