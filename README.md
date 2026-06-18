@@ -38,7 +38,7 @@ Atualmente combino minha experiência sólida em **Help Desk** e atendimento ao 
 
 * 🌱 Atualmente aprofundando conhecimentos em **Django REST Framework** e **ReactJS**.
 * 💼 Experiência prática criando scripts de automação com **Python (Selenium/PyAutoGUI)** para otimizar tarefas de suporte técnico.
-* 🎯 Buscando minha primeira oportunidade de estágio como Desenvolvedor.
+
 
 ---
 
